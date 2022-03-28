@@ -11,7 +11,6 @@
   inputs.src-nim_cjson-master.ref   = "refs/heads/master";
   inputs.src-nim_cjson-master.owner = "muxueqz";
   inputs.src-nim_cjson-master.repo  = "nim_cjson";
-  inputs.src-nim_cjson-master.dir   = "";
   inputs.src-nim_cjson-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
